@@ -1,0 +1,41 @@
+html {
+	/* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+	font-size: 20px; 
+	/* Google fonts 输出的 CSS */
+	font-family: 'Open Sans', sans-serif; 
+	 background-color: #E1DFDF;
+}
+body {/*文档体格式设置*/
+	width: 800px;
+	margin: 0 auto;
+/*	background-color: #45444F;*/
+ 	background-color:transparent;
+	font-family: 'Sriracha', cursive;
+	font-family: 'Fjalla One', sans-serif;
+	padding: 0 20px 20px 20px;
+/*	border: 5px solid black;*/
+}
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;/*定位页面主标题并添加样式*/
+	font-family: 'Sriracha', cursive;
+	font-family: 'Fjalla One', sans-serif;
+	padding: 20px 0;    
+	color: #00539F;
+	text-shadow: 3px 3px 1px white;
+}
+
+p, li {
+	font-size: 16px;    
+	line-height: 2;
+	letter-spacing: 1px;
+}
+img {
+	width: 600px;
+	display: block;
+	margin: 0 auto;
+}
+audio{
+	audio-align: center
+}

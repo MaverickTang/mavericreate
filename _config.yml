@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+deploy:
+type: git
+repository: git@github.com:guxiaole/guxiaole.github.io.git
+branch: master
+url: https://mavericktang.github.io/mavericreate.github.com/blog/
+root: /blog
