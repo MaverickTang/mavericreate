@@ -1,3 +1,3 @@
 # mavericreate.github.com
 My website
-https://mavericktang.github.io/mavericreate.github.com/
+https://mavericktang.github.io/mavericreate/
